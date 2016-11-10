@@ -1,6 +1,6 @@
 # quantum_mechanics_N2014301020089
 
-Exercice_01   [problem3.6-3.8](https://www.zybuluo.com/mdeditor#498633)
+Exercice_01   [problem3.6-3.8](https://github.com/vakie/quantum_mechanics_N2014301020089/blob/master/3.6-3.8.md)
 
 Exercice_02   [TBD ](https://github.com/vakie/homework1/blob/master/README.md)
 
