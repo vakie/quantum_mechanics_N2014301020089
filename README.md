@@ -2,7 +2,7 @@
 
 Exercice_01   [problem3.6-3.8](https://github.com/vakie/quantum_mechanics_N2014301020089/blob/master/3.6-3.8.md)
 
-Exercice_02   [TBD ](https://github.com/vakie/homework1/blob/master/README.md)
+Exercice_02   [problem3.9-3.16](https://github.com/vakie/quantum_mechanics_N2014301020089/blob/master/problem3.9-3.16.md）
 
 Exercice_03   [TBD](https://github.com/vakie/compuational_physics_N2014301020089/blob/master/exercise03.md)
 
