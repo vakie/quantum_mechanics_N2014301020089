@@ -14,6 +14,6 @@ Exercice_06   [第六次作业](https://github.com/vakie/quantum_mechanics_N201
 
 Exercice_07   [第七次作业](https://github.com/vakie/quantum_mechanics_N2014301020089/blob/master/07.md)
 
-Exercice_07   [第八次作业](https://github.com/vakie/quantum_mechanics_N2014301020089/blob/master/08.md)
+Exercice_08   [第八次作业](https://github.com/vakie/quantum_mechanics_N2014301020089/blob/master/08.md)
 
 前几次未及时上传的作业已经补上，万分歉意
